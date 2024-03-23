@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./App.css";
+import ProjectTable from "./ProjectTable"; // Ensure this import path is correct
+import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header title="." />
+      {/* <header className="App-header">
+        <h1>
+          Projects ongoing under CDRF (1 <sup>st</sup> Round)
+        </h1>
+      </header> */}
+      <main>
+        <ProjectTable />
+      </main>
     </div>
   );
 }

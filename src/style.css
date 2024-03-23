@@ -1,0 +1,136 @@
+
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color-scheme: light dark;
+    color: #000;
+    background-color: #fff;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  th {
+    background-color: #ffc124; /* Default background color for all th elements */
+  }
+
+
+  .ptitle {
+    color: #C12872;
+  }
+  /* Other styles omitted for brevity */
+
+table tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light grey background */
+    
+  }
+  
+  /* If you want the odd rows instead, use tr:nth-child(odd) */
+  
+  
+  table {
+    width: 95%;
+    margin: auto;
+    margin-bottom: 20rem;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 8px 16px;
+  }
+  
+  .table-header {
+    font-size: smaller;
+    background-color: #ffc124;
+  }
+  
+  .table-content-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .investigator-details {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+    margin-bottom: 4px;
+  }
+  
+  .investigator-details:last-child {
+    border-bottom: none;
+  }
+  
+  .popover {
+    padding: 16px;
+    border-radius: 8px;
+    border: 1px solid black;
+    position: absolute;
+    background-color: white;
+    transition: ease-in 300ms;
+  }
+  
+  .close-icon {
+    cursor: pointer;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 16px;
+    right: 16px;
+  }
+  
+  .investigator-name {
+    cursor: pointer;
+  }
+  
+  
+  .separator {
+    border: none;
+    height: 1px;
+    margin: 4px 0; /* Adjust the vertical spacing around the separator as needed */
+    background-color: #ddd; /* Light gray color for the separator */
+    width: 100%; /* Ensure the separator spans the full width of its container */
+  }
+  
+  /* Ensure there's no extra space below the last paragraph in a cell to align separators nicely */
+  td p:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Existing styles for table, th, td, etc., remain unchanged */
+  
+
+.head {
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+
+/* //////////////// */
+
+  /* style.css */
+.popover {
+    display: none;
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    z-index: 100;
+    width: 200px;
+  }
+  
+  .popoverContent:hover .popover,
+  .popoverContent:focus .popover {
+    display: block;
+  }
+  
+  .separator {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
