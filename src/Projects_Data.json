@@ -326,8 +326,12 @@
         "Application_No": "C1/23/155",
         "Project_Title": "Development of a biosensor with on-chip planar Hall magnetometer",
         "Investigators": {
-            "Arnab Roy\nIndrani Chakraborty": {
-                "Department": "Physics Physics",
+            "Arnab Roy": {
+                "Department": "Physics",
+                "Campus": "Goa"
+            },
+            "Indrani Chakraborty":{
+                "Department": "Physics",
                 "Campus": "Goa"
             }
         }
