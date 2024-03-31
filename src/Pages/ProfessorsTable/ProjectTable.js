@@ -1,7 +1,7 @@
 import React from "react";
-import projectData from "./Projects_Data.json";
+import projectData from "../../Projects_Data.json";
 import "./style.css";
-import updatedProfData from "./UpdatedProfData.json";
+import updatedProfData from "../../UpdatedProfData.json";
 
 const ProjectTable = () => {
   return (

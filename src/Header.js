@@ -6,9 +6,7 @@ function Header({ title }) {
   return (
     <header className={styles.header}>
       {/* <img src={logo} alt="Logo" className={styles.logo} /> */}
-      <h1 className={styles.title}>
-        Projects ongoing under CDRF (1 <sup>st</sup> Round)
-      </h1>
+      <h1 className={styles.title}>{title}</h1>
     </header>
   );
 }
