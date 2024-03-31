@@ -7,10 +7,10 @@ const DataTable = ({ data }) => {
     () => [
       {
         Header: "Name",
-        accessor: "Name", // accessor is the "key" in the data
+        accessor: "Name",
       },
       {
-        Header: "PI Name",
+        Header: "Supervisors",
         accessor: "PI Name",
       },
       {
@@ -21,11 +21,9 @@ const DataTable = ({ data }) => {
     []
   );
 
-  // Use the useTable hook to create your table configuration
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
     useTable({ columns, data });
 
-  // Render the UI for your table
   return (
     <table {...getTableProps()}>
       <thead>
