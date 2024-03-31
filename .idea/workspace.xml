@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59a87b43-cd37-4982-92fd-5dbd5ce23ed0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pages/ProfessorsTable/ProfessorTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +49,7 @@
       <updated>1711175233238</updated>
       <workItem from="1711175234270" duration="3060000" />
       <workItem from="1711869394901" duration="164000" />
-      <workItem from="1711869564993" duration="150000" />
+      <workItem from="1711869564993" duration="250000" />
     </task>
     <servers />
   </component>

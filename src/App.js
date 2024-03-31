@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
         <Routes>
-            <Route path={'/cdrf'} element={<ProfessorTable />} />
+            <Route path={'/'} element={<ProfessorTable />} />
         </Routes>
     </BrowserRouter>
   );
