@@ -15,7 +15,7 @@ const DataTable = ({ data }) => {
       },
       {
         Header: "Project Title",
-        accessor: "Project Title",
+        accessor: "Project_Title",
       },
     ],
     []

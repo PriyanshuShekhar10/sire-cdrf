@@ -1,297 +1,298 @@
 [{
     "Name": "Fran Ilcic",
     "PI Name": "Dr. Indrakshi Raychowdhury",
-    "Project Title": "Development of algorithms for simulating strongly correlated systems on hybrid classical quantum architectures"
+    "Project_Title": "Development of algorithms for simulating strongly correlated systems on hybrid classical quantum architectures"
 },
 {
     "Name": "Mr. Sujit Satish Chaudhari",
     "PI Name": " Dr. Swastibrata Bhattacharyya",
-    "Project Title": "Computational and Theoretical Study of Quantum Materials"
-},
+    "Project_Title": "Computational and Theoretical study of quantum materials"},
 {
     "Name": "Avadhut Jakhi",
     "PI Name": "Dr. Pravin Singru",
-    "Project Title": "Feature engineering for condition monitoring of Machines using vibration signature Analysis using Machine Learning"
+    "Project_Title": "Feature Engineering for Condition Monitoring of Machines Using Vibration Signature Analysis using Machine Learning"
 },
 {
     "Name": "Suraj Singh",
     "PI Name": " Dr. Vadiraj Hemadri",
-    "Project Title": "SwedGuru:A privacy-sware smart wearable patch to analyze sweat and provide real time health feedback"
+    "Project_Title": "SwedGuru: A privacy-aware smart wearable patch to analyze sweat and provide real-time health feedback"
 },
 {
     "Name": "Gowri Krishnan",
     "PI Name": " Dr. Anurag Nishad",
-    "Project Title": "Design and Development of a Cost-effective multi-grasp myoelectric upper limb prosthesis."
+    "Project_Title": "Design and development of a cost-effective multi-grasp myoelectric upper limb prosthesis"
 },
 {
     "Name": "Mr. Neeraj Kumar Bhaskar",
     "PI Name": "Dr. M K Deshmukh",
-    "Project Title": "Investigation onimpact of variations in local site and climatic conditions on field Performance of Grid connected-solar photovaltaic and small wind energy systems at BITS Pilani K K Birla Goa Campus"
+    "Project_Title": "Investigations on Impacts of Variations in Local Site and Climatic Conditions on Field Performance of Grid-connected Solar Photovoltaic and Small Wind Energy Systems at BITS Pilani K K Birla Goa-Campus."
 },
 {
     "Name": "Ashwini Padole",
     "PI Name": "Dr. Vivek R",
-    "Project Title": "Unlocking the Potential of Green Cosmetic Nanoemulsions for Targeted Acne Vulgaris Therapy: Advanced Modeling and Optimization strategies."
+    "Project_Title": "Unlocking the Potential of Green Cosmetic Nanoemulsions for Targeted Acne Vulgaris Therapy: Advanced Modeling and Optimization Strategies"
 },
 {
     "Name": "Ganesh Kumar R",
     "PI Name": " Dr.N N Ghosh",
-    "Project Title": "Development of high performance supercapattery device: synthesis of novel electrode materials, electrolytes and simulation study"
+    "Project_Title": "Development of high performance supercapattery device: synthesis of novel electrode materials, electrolytes, and simulation study"
 },
 {
     "Name": "Abboy Chatterjee",
     "PI Name": "Dr.  Mainak Banerjee",
-    "Project Title": "Silicon-to-lead: AI-Driven Design, Synthesis and Development of New Drugs to Combat Cardiovascular Diseases."
+    "Project_Title": "Silicon-to-Lead: AI-Driven Design, Synthesis and Development of New Drugs to Combat Cardiovascular Diseases"
 },
 {
     "Name": "Tanmoy Kar",
     "PI Name": "Dr. Amrita Chatterjee",
-    "Project Title": "Development of Fluorescent probe-based Microfluidic Point-of-care Testing kits for early phase detection of urinary tract infection"
+    "Project_Title": "Development of Fluorescent Probe-based Microfluidic Point-of-Care Testing kits for the early phase detection of urinary tract infection"
 },
 {
     "Name": "Apoorva Maruti Pai",
     "PI Name": "Dr. Kiran Vankayala",
-    "Project Title": "Exploring the role of electronics spin in enhanced hydrogen production using chiral/magnetic electrocatalysts"
+    "Project_Title": "Exploring the role of electrons\u2019 spin in enhanced hydrogen production using chiral/magnetic electrocatalysts"
 },
 {
     "Name": "Praseeda P Nair",
     "PI Name": " Dr. Ranjan Dey",
-    "Project Title": "Separation of Carcinogenic Industrial Solvents Using Solar Energy, Encapsulated PCM based Magnetic Nanoparticles and AL applications for Optimization: Towards a Sustainable alternative."
+    "Project_Title": "Separation of Carcinogenic Industrial Solvents Using Solar Energy, Encapsulated PCM based Magnetic Nanoparticles and AI applications for Optimization: Towards a Sustainable Alternative"
 },
 {
     "Name": "Athul Krishnan",
     "PI Name": "Dr.Halan Prakash",
-    "Project Title": "UV-visible LED light responsive semiconductor films devices for drinking water pollutant sensing and Purification applications"
+    "Project_Title": "UV-visible LED light responsive semiconductor films devices for drinking water pollutant sensing and purification applications"
 },
 {
     "Name": "Gayathri S Kamath",
     "PI Name": "Dr. Indrani Talukdar",
-    "Project Title": "Noninvasive investigations on stem cell differentiation to neuron and induced morphogenesis using two-photon microscopy"
+    "Project_Title": "Noninvasive investigations on stem cell differentiation to neuron and induced morphogenesis using two-photon microscopy."
 },
 {
     "Name": "Mr. Anirvan Komath Majumdar",
     "PI Name": "Dr. Anasuya Ganguly",
-    "Project Title": "Edible 3D printed Cellulose /Starch - Glimepiride sensor tablets for sensing blood glucose levels"
+    "Project_Title": "Edible 3D printed Cellulose /Starch - Glimepiride sensor tablets for sensing blood glucose levels"
 },
 {
     "Name": "Mani Bhushan",
     "PI Name": "Dr. Rudra Prasad Pradhan",
-    "Project Title": "Indo-Pacific 41 Countries Seapots& Vessel Traffic Analysis: Optimizing India's Smart Ports & Green Shipping using AL & ML"
+    "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML"
 },
 {
     "Name": "Ms. Sushmita Bhattacharjee",
     "PI Name": "Dr. Mohan Kumar Bera",
-    "Project Title": "Right to Safe Sanitation Facilities: A Study  of person with Disabilities"
+    "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML"
 },
+
 {
-    "Name": "Ms.Tanvi Naik=",
+    
+    "Name": "Ms.Tanvi Naik",
     "PI Name": "Dr. Apurba Chakraborty",
-    "Project Title": "Design , Implementation and ML-based modeling of Gallium Oxide based junction barrier schottky diodes (JBSD) for Extreme environment and high power applications"
+    "Project_Title": "Design , Implementation and ML-based modeling of Gallium Oxide based junction barrier schottky diodes (JBSD) for Extreme environment and high power applications"
 },
 {
     "Name": "Ms. Bidisha Mondal",
     "PI Name": "Dr. Anirban Roy",
-    "Project Title": "An Intelligent Energy optimized Aeration Assembly sytem: An Indutry 4.0 perpective"
+    "Project_Title": "An Intelligent, Energy Optimized Aeration Assembly System: An Industry 4.0 Perspective"
 },
     {
         "Name": "Rajdip Dey",
         "PI Name": "Santanu Koley",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Anandia Mitro",
         "PI Name": "Archana Srivastava",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Divya Mohan",
         "PI Name": "Arijit Mukherjee",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Sathish Kumar G",
         "PI Name": "Arnab Dutta",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Hanan H",
         "PI Name": "Bahurudeen",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Heena Bholaram Choudhary",
         "PI Name": "Srinivasa Prasad",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Archith Casheekar",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Vedant Shrivastava",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Pradyut Ganesh",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Tanay Reddy Reddigari",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Karanam Abhiram",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Darsh Shani",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Prachi Shah",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Shubhanga Gautam",
         "PI Name": "Subhendu Kumar S",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Shruti Mhamane",
         "PI Name": "Nirmal J",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Uttara Sushant Shelatkar",
         "PI Name": "Satyapaul Singh A",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Jenisha MA ",
         "PI Name": "Murari R R Varma",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Moharir Shreyash Rajendra",
         "PI Name": "KVG Chandra Sekhar",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Ritama Ghosh",
         "PI Name": "Himanshu Aggarwal",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Agrim Babbar",
         "PI Name": "Debirupa Mitra",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Yashi Khandelwal",
         "PI Name": "Arnab Dutta",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     
     {
         "Name": "Mr. Sachin Shishodia",
         "PI Name": "Dr. Radha Raman Mishra",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Sanjay Prakash Pathak",
         "PI Name": "Dr. Navneet Gupta",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Lourder Jennifer S",
         "PI Name": "Dr. S K Verma",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Vivek Kumar",
         "PI Name": "Dr. Sandeep Sundriyal",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Sreeram Prakash",
         "PI Name": "Dr. Sarbani Ghosh",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Rishikesh Sharma",
         "PI Name": "Dr. Rallapalli Srinivas",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Karnika ",
         "PI Name": "Dr. Mukul Joshi",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Nilesh Jaiswal",
         "PI Name": "Dr. Satyendra Kumar Mourya",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Aakarshan Pratik Chaurishi",
         "PI Name": "Dr. Ashish Patel",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Shreya Chandravanshi",
         "PI Name": "Dr. Arnab Hazra",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Nitin Pandey",
         "PI Name": "Dr. Venkatesh KP Rao",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Keerthana Balakrishnan",
         "PI Name": "Dr. Rahul Kumar",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "VijayKumar",
         "PI Name": "Dr. Ravi Kant Mittal",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Arvind kumar",
         "PI Name": "Dr Syed Mohammad Zafaruddin",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Sainithin Artham ",
         "PI Name": "Dr ShaShank Gupta",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Irum Jahan Indrabi",
         "PI Name": "Dr. Nitin Chaturvedi",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Garima",
         "PI Name": "Dr. Raj Kumar Gupta",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Ashma Haris",
         "PI Name": "Dr. Smita Raghuvanshi",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     },
     {
         "Name": "Pragati Kumbhar",
         "PI Name": "Dr. Gautam Singhvi ",
-        "Project Title": "To be updated"
+        "Project_Title": "To be updated"
     }
 ]
