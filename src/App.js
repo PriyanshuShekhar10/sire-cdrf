@@ -2,20 +2,16 @@ import React from "react";
 import "./App.css";
 import ProjectTable from "./ProjectTable"; // Ensure this import path is correct
 import Header from "./Header";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import ProfessorTable from "./Pages/ProfessorsTable/ProfessorTable";
 
 function App() {
   return (
-    <div className="App">
-      <Header title="." />
-      {/* <header className="App-header">
-        <h1>
-          Projects ongoing under CDRF (1 <sup>st</sup> Round)
-        </h1>
-      </header> */}
-      <main>
-        <ProjectTable />
-      </main>
-    </div>
+    <BrowserRouter>
+        <Routes>
+            <Route path={'/cdrf'} element={<ProfessorTable />} />
+        </Routes>
+    </BrowserRouter>
   );
 }
 
