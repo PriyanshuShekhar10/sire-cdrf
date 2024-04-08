@@ -1,6 +1,8 @@
+//ScholarTable.js
+
 import Header from "../../Header";
 // import ProjectTable from "./ProjectTable";
-import data from "./combined_cdrf_details_new.json";
+import data from "./corrected_combined_cdrf_details";
 import React from "react";
 import ScholarDataTable from "./ScholarDataTable";
 
