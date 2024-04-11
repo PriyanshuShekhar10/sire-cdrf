@@ -1,297 +1,465 @@
 [
     {
         "Name": "Fran Ilcic",
-        "PI Name": "Indrakshi Raychowdhury",
+        "Supervisor": {
+            "1": "Indrakshi Raychowdhury"
+        },
         "Project_Title": "Development of algorithms for simulating strongly correlated systems on hybrid classical quantum architectures"
     },
     {
         "Name": "Mr. Sujit Satish Chaudhari",
-        "PI Name": "Swastibrata Bhattacharyya",
+        "Supervisor": {
+
+            "1": "Swastibrata Bhattacharyya",
+            "2": "Anushaya Mohapatra"
+        },
         "Project_Title": "Computational and Theoretical study of quantum materials"
     },
     {
         "Name": "Avadhut Jakhi",
-        "PI Name": "Pravin Singru",
+        "Supervisor": {
+            "1": "Pravin M. Singru",
+            "2": "Ramprasad S. Joshi"
+        },
         "Project_Title": "Feature Engineering for Condition Monitoring of Machines Using Vibration Signature Analysis using Machine Learning"
     },
     {
         "Name": "Suraj Singh",
-        "PI Name": "Vadiraj Hemadri",
+        "Supervisor": {
+            "1": "Vadiraj Hemadri",
+            "2": "Arnab K. Paul",
+            "3": "Afkham Mir",
+            "4": "Vadiraj Hemadri",
+            "5": "Sougata Sen"
+        },
         "Project_Title": "SwedGuru: A privacy-aware smart wearable patch to analyze sweat and provide real-time health feedback"
     },
     {
         "Name": "Gowri Krishnan",
-        "PI Name": "Anurag Nishad",
+        "Supervisor": {
+            "1": "Anurag Nishad",
+            "2": "Anurag Nishad",
+            "3": "Ganesh M. Bapat"
+        },
         "Project_Title": "Design and development of a cost-effective multi-grasp myoelectric upper limb prosthesis"
     },
     {
         "Name": "Mr. Neeraj Kumar Bhaskar",
-        "PI Name": "K Deshmukh",
+        "Supervisor": {
+            "1": "M K Deshmukh",
+            "2": "Mukund Keshavrao Deshmukh",
+            "3": "Sampatrao Dagu Manjare",
+            "4": "Chandradew Sharma",
+            "5": "Debasis Patnaik",
+            "6": "Soumyabrata Barik",
+            "7": "Sudarshan Swain"
+        },
         "Project_Title": "Investigations on Impacts of Variations in Local Site and Climatic Conditions on Field Performance of Grid-connected Solar Photovoltaic and Small Wind Energy Systems at BITS Pilani K K Birla Goa-Campus."
     },
     {
         "Name": "Ashwini Padole",
-        "PI Name": "Vivek R",
+        "Supervisor": {
+            "1": "Vivek R",
+            "2": "Vivek Rangarajan",
+            "3": "Utpal Roy",
+            "4": "Riju De"
+        },
         "Project_Title": "Unlocking the Potential of Green Cosmetic Nanoemulsions for Targeted Acne Vulgaris Therapy: Advanced Modeling and Optimization Strategies"
     },
     {
         "Name": "Ganesh Kumar R",
-        "PI Name": "N Ghosh",
+        "Supervisor": {
+            "1": " Dr.N N Ghosh",
+            "2": "Narendra Nath Ghosh",
+            "3": "Anshuman Dalvi",
+            "4": "Tribeni Roy"
+        },
         "Project_Title": "Development of high performance supercapattery device: synthesis of novel electrode materials, electrolytes, and simulation study"
     },
     {
         "Name": "Abboy Chatterjee",
-        "PI Name": "Mainak Banerjee",
+        "Supervisor": {
+            "1": "Mainak Banerjee",
+            "2": "Mainak Banerjee",
+            "3": "Suman Kundu",
+            "4": "Ashwin Srinivasan",
+            "5": "Sumit Biswas"
+        },
         "Project_Title": "Silicon-to-Lead: AI-Driven Design, Synthesis and Development of New Drugs to Combat Cardiovascular Diseases"
     },
     {
         "Name": "Tanmoy Kar",
-        "PI Name": "Amrita Chatterjee",
+        "Supervisor": {
+            "1": "Amrita Chatterjee",
+            "2": "Amrita Chatterjee",
+            "3": "Satish Kumar Dubey",
+            "4": "Malabika Biswas"
+        },
         "Project_Title": "Development of Fluorescent Probe-based Microfluidic Point-of-Care Testing kits for the early phase detection of urinary tract infection"
     },
     {
         "Name": "Apoorva Maruti Pai",
-        "PI Name": "Kiran Vankayala",
+        "Supervisor": {
+            "1": "Kiran Vankayala",
+            "2": "Kiran Vankayala",
+            "3": "Ram Shanker Patel"
+        },
         "Project_Title": "Exploring the role of electrons\u2019 spin in enhanced hydrogen production using chiral/magnetic electrocatalysts"
     },
     {
         "Name": "Praseeda P Nair",
-        "PI Name": "Ranjan Dey",
+        "Supervisor": {
+            "1": "Ranjan Dey",
+            "2": "Ranjan Dey",
+            "3": "Suvanjan Bhattacharyya",
+            "4": "Surjya Ghosh"
+        },
         "Project_Title": "Separation of Carcinogenic Industrial Solvents Using Solar Energy, Encapsulated PCM based Magnetic Nanoparticles and AI applications for Optimization: Towards a Sustainable Alternative"
     },
     {
         "Name": "Athul Krishnan",
-        "PI Name": "Dr.Halan Prakash",
+        "Supervisor": {
+            "1": "Dr.Halan Prakash",
+            "2": "Halan Prakash",
+            "3": "Ethirajulu Senthamarai Kannan",
+            "4": "Vaibhav Joshi"
+        },
         "Project_Title": "UV-visible LED light responsive semiconductor films devices for drinking water pollutant sensing and purification applications"
     },
     {
         "Name": "Gayathri S Kamath",
-        "PI Name": "Indrani Talukdar",
+        "Supervisor": {
+            "1": "Indrani Talukdar",
+            "2": "Indrani Talukdar",
+            "3": "P. Nandakumar"
+        },
         "Project_Title": "Noninvasive investigations on stem cell differentiation to neuron and induced morphogenesis using two-photon microscopy."
     },
     {
         "Name": "Mr. Anirvan Komath Majumdar",
-        "PI Name": "Anasuya Ganguly",
+        "Supervisor": {
+            "1": "Anasuya Ganguly",
+            "2": "Anasuya Ganguly",
+            "3": "Judith Braganca",
+            "4": "Hemant Rathore"
+        },
         "Project_Title": "Edible 3D printed Cellulose /Starch - Glimepiride sensor tablets for sensing blood glucose levels"
     },
     {
         "Name": "Mani Bhushan",
-        "PI Name": "Prasad Pradhan",
+        "Supervisor": {
+            "1": "Rudra Prasad Pradhan",
+            "2": "Rudra Prasad Pradhan",
+            "3": "Arun Kumar Giri",
+            "4": "Hemant Rathore"
+        },
         "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML"
     },
     {
         "Name": "Ms. Sushmita Bhattacharjee",
-        "PI Name": "Kumar Bera",
+        "Supervisor": {
+            "1": "Mohan Kumar Bera",
+            "2": "Rudra Prasad Pradhan",
+            "3": "Arun Kumar Giri",
+            "4": "Hemant Rathore"
+        },
         "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML"
     },
     {
         "Name": "Ms.Tanvi Naik",
-        "PI Name": "Apurba Chakraborty",
+        "Supervisor": {
+            "1": "Apurba Chakraborty"
+        },
         "Project_Title": "Design , Implementation and ML-based modeling of Gallium Oxide based junction barrier schottky diodes (JBSD) for Extreme environment and high power applications"
     },
     {
         "Name": "Ms. Bidisha Mondal",
-        "PI Name": "Anirban Roy",
+        "Supervisor": {
+            "1": "Anirban Roy",
+            "2": "Anirban Roy",
+            "3": "Snehanshu Saha",
+            "4": "Santonu Sarkar"
+        },
         "Project_Title": "An Intelligent, Energy Optimized Aeration Assembly System: An Industry 4.0 Perspective"
     },
     {
         "Name": "Rajdip Dey",
-        "PI Name": "Santanu Koley",
+        "Supervisor": {
+            "1": "Santanu Koley"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Anandia Mitro",
-        "PI Name": "Archana Srivastava",
+        "Supervisor": {
+            "1": "Archana Srivastava"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Divya Mohan",
-        "PI Name": "Arijit Mukherjee",
+        "Supervisor": {
+            "1": "Arijit Mukherjee"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Sathish Kumar G",
-        "PI Name": "Arnab Dutta",
+        "Supervisor": {
+            "1": "Arnab Dutta"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Hanan H",
-        "PI Name": "Bahurudeen",
+        "Supervisor": {
+            "1": "Bahurudeen"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Heena Bholaram Choudhary",
-        "PI Name": "Srinivasa Prasad",
+        "Supervisor": {
+            "1": "Srinivasa Prasad"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Archith Casheekar",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Vedant Shrivastava",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Pradyut Ganesh",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Tanay Reddy Reddigari",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Karanam Abhiram",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Darsh Shani",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Prachi Shah",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Shubhanga Gautam",
-        "PI Name": "Kumar S",
+        "Supervisor": {
+            "1": "Subhendu Kumar S"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Shruti Mhamane",
-        "PI Name": "Nirmal J",
+        "Supervisor": {
+            "1": "Nirmal J"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Uttara Sushant Shelatkar",
-        "PI Name": "Singh A",
+        "Supervisor": {
+            "1": "Satyapaul Singh A"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Jenisha MA ",
-        "PI Name": "R Varma",
+        "Supervisor": {
+            "1": "Murari R R Varma"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Moharir Shreyash Rajendra",
-        "PI Name": "Chandra Sekhar",
+        "Supervisor": {
+            "1": "KVG Chandra Sekhar"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Ritama Ghosh",
-        "PI Name": "Himanshu Aggarwal",
+        "Supervisor": {
+            "1": "Himanshu Aggarwal"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Agrim Babbar",
-        "PI Name": "Debirupa Mitra",
+        "Supervisor": {
+            "1": "Debirupa Mitra"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Yashi Khandelwal",
-        "PI Name": "Arnab Dutta",
+        "Supervisor": {
+            "1": "Arnab Dutta"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Mr. Sachin Shishodia",
-        "PI Name": "Raman Mishra",
+        "Supervisor": {
+            "1": "Radha Raman Mishra"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Sanjay Prakash Pathak",
-        "PI Name": "Navneet Gupta",
+        "Supervisor": {
+            "1": "Navneet Gupta"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Lourder Jennifer S",
-        "PI Name": "K Verma",
+        "Supervisor": {
+            "1": "S K Verma"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Vivek Kumar",
-        "PI Name": "Sandeep Sundriyal",
+        "Supervisor": {
+            "1": "Sandeep Sundriyal"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Sreeram Prakash",
-        "PI Name": "Sarbani Ghosh",
+        "Supervisor": {
+            "1": "Sarbani Ghosh"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Rishikesh Sharma",
-        "PI Name": "Rallapalli Srinivas",
+        "Supervisor": {
+            "1": "Rallapalli Srinivas"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Karnika ",
-        "PI Name": "Mukul Joshi",
+        "Supervisor": {
+            "1": "Mukul Joshi"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Nilesh Jaiswal",
-        "PI Name": "Kumar Mourya",
+        "Supervisor": {
+            "1": "Satyendra Kumar Mourya"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Aakarshan Pratik Chaurishi",
-        "PI Name": "Ashish Patel",
+        "Supervisor": {
+            "1": "Ashish Patel"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Shreya Chandravanshi",
-        "PI Name": "Arnab Hazra",
+        "Supervisor": {
+            "1": "Arnab Hazra"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Nitin Pandey",
-        "PI Name": "KP Rao",
+        "Supervisor": {
+            "1": "Venkatesh KP Rao"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Keerthana Balakrishnan",
-        "PI Name": "Rahul Kumar",
+        "Supervisor": {
+            "1": "Rahul Kumar"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "VijayKumar",
-        "PI Name": "Kant Mittal",
+        "Supervisor": {
+            "1": "Ravi Kant Mittal"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Arvind kumar",
-        "PI Name": "Mohammad Zafaruddin",
+        "Supervisor": {
+            "1": "Syed Mohammad Zafaruddin"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Sainithin Artham ",
-        "PI Name": "ShaShank Gupta",
+        "Supervisor": {
+            "1": "ShaShank Gupta"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Irum Jahan Indrabi",
-        "PI Name": "Nitin Chaturvedi",
+        "Supervisor": {
+            "1": "Nitin Chaturvedi"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Garima",
-        "PI Name": "Kumar Gupta",
+        "Supervisor": {
+            "1": "Raj Kumar Gupta"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Ashma Haris",
-        "PI Name": "Smita Raghuvanshi",
+        "Supervisor": {
+            "1": "Smita Raghuvanshi"
+        },
         "Project_Title": "To be updated"
     },
     {
         "Name": "Pragati Kumbhar",
-        "PI Name": "Gautam Singhvi",
+        "Supervisor": {
+            "1": "Gautam Singhvi"
+        },
         "Project_Title": "To be updated"
     }
 ]

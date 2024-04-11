@@ -1,18 +1,16 @@
-//ScholarTable.js
-
-import Header from "../../Header";
-// import ProjectTable from "./ProjectTable";
-import data from "./corrected_combined_cdrf_details";
 import React from "react";
 import ScholarDataTable from "./ScholarDataTable";
+import cdrfdata from "./data/modified_corrected_combined_cdrf_details.json";
+import Header from "../../Header";
 
 const ScholarTable = () => {
   return (
-    <div className="App">
-      <Header title="PhD scholars under the CDRF projects" />
-      <main>
-        <ScholarDataTable data={data} />
-      </main>
+    <div>
+      <Header
+        title="PhD scholars under the CDRF projects
+"
+      />
+      <ScholarDataTable data={cdrfdata} />;
     </div>
   );
 };
