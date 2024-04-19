@@ -3,7 +3,7 @@ import React from "react";
 const SimpleTable = ({ data }) => {
   let alternate = false; // Track alternating background color
 
-  // Define CSS styles as objects
+  // Inline styles
   const styles = {
     table: {
       width: "100%",
@@ -20,9 +20,6 @@ const SimpleTable = ({ data }) => {
       color: "black",
     },
     row: {},
-    hoverRow: {
-      backgroundColor: "#e8f4f8", // This will be applied on hover via CSS class if necessary
-    },
     indentCell: {
       paddingLeft: "20px",
     },
@@ -33,7 +30,6 @@ const SimpleTable = ({ data }) => {
     const supervisors = Object.values(item.Supervisor);
     const rows = [];
 
-    // Push the main row
     rows.push(
       <tr key={`person-${index}`} style={{ ...styles.row, backgroundColor }}>
         <td style={styles.cell}>{item.Name}</td>
@@ -42,7 +38,6 @@ const SimpleTable = ({ data }) => {
       </tr>
     );
 
-    // Render additional supervisor rows
     if (supervisors.length > 1) {
       supervisors.slice(1).forEach((supervisor, subIndex) => {
         rows.push(
@@ -58,24 +53,35 @@ const SimpleTable = ({ data }) => {
       });
     }
 
-    // Toggle the background color for the next project
     if (item.Name) alternate = !alternate;
 
     return rows;
   };
 
   return (
-    <div style={{ margin: "5rem" }}>
-      <table style={styles.table}>
-        <thead>
-          <tr>
-            <th style={styles.headerCell}>Name</th>
-            <th style={styles.headerCell}>Supervisor(s)</th>
-            <th style={styles.headerCell}>Project Title</th>
-          </tr>
-        </thead>
-        <tbody>{data.map(renderRows)}</tbody>
-      </table>
+    <div>
+      <style>{`
+        @media (max-width: 600px) {
+          .datatable {
+            margin: 0 !important; /* Remove margin on mobile */
+          }
+          table {
+            margin: 0 !important; /* Remove table margin on mobile */
+          }
+        }
+      `}</style>
+      <div className="datatable" style={{ margin: "5rem" }}>
+        <table style={styles.table}>
+          <thead>
+            <tr>
+              <th style={styles.headerCell}>Name</th>
+              <th style={styles.headerCell}>Supervisor(s)</th>
+              <th style={styles.headerCell}>Project Title</th>
+            </tr>
+          </thead>
+          <tbody>{data.map(renderRows)}</tbody>
+        </table>
+      </div>
     </div>
   );
 };
