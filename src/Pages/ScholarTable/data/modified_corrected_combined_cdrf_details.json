@@ -37,7 +37,6 @@
     {
         "Name": "Gowri Krishnan",
         "Supervisor": {
-            "1": "Anurag Nishad",
             "2": "Anurag Nishad",
             "3": "Ganesh M. Bapat"
         },
@@ -46,7 +45,7 @@
     {
         "Name": "Mr. Neeraj Kumar Bhaskar",
         "Supervisor": {
-            "1": "M K Deshmukh",
+            
             "2": "Mukund Keshavrao Deshmukh",
             "3": "Sampatrao Dagu Manjare",
             "4": "Chandradew Sharma",
@@ -59,7 +58,7 @@
     {
         "Name": "Ashwini Padole",
         "Supervisor": {
-            "1": "Vivek R",
+            
             "2": "Vivek Rangarajan",
             "3": "Utpal Roy",
             "4": "Riju De"
@@ -69,7 +68,7 @@
     {
         "Name": "Ganesh Kumar R",
         "Supervisor": {
-            "1": " Dr.N N Ghosh",
+            
             "2": "Narendra Nath Ghosh",
             "3": "Anshuman Dalvi",
             "4": "Tribeni Roy"
@@ -79,7 +78,7 @@
     {
         "Name": "Abboy Chatterjee",
         "Supervisor": {
-            "1": "Mainak Banerjee",
+            
             "2": "Mainak Banerjee",
             "3": "Suman Kundu",
             "4": "Ashwin Srinivasan",
@@ -90,7 +89,7 @@
     {
         "Name": "Tanmoy Kar",
         "Supervisor": {
-            "1": "Amrita Chatterjee",
+            
             "2": "Amrita Chatterjee",
             "3": "Satish Kumar Dubey",
             "4": "Malabika Biswas"
@@ -100,7 +99,7 @@
     {
         "Name": "Apoorva Maruti Pai",
         "Supervisor": {
-            "1": "Kiran Vankayala",
+            
             "2": "Kiran Vankayala",
             "3": "Ram Shanker Patel"
         },
@@ -109,7 +108,7 @@
     {
         "Name": "Praseeda P Nair",
         "Supervisor": {
-            "1": "Ranjan Dey",
+            
             "2": "Ranjan Dey",
             "3": "Suvanjan Bhattacharyya",
             "4": "Surjya Ghosh"
@@ -119,7 +118,7 @@
     {
         "Name": "Athul Krishnan",
         "Supervisor": {
-            "1": "Dr.Halan Prakash",
+            
             "2": "Halan Prakash",
             "3": "Ethirajulu Senthamarai Kannan",
             "4": "Vaibhav Joshi"
@@ -129,7 +128,7 @@
     {
         "Name": "Gayathri S Kamath",
         "Supervisor": {
-            "1": "Indrani Talukdar",
+            
             "2": "Indrani Talukdar",
             "3": "P. Nandakumar"
         },
@@ -138,7 +137,7 @@
     {
         "Name": "Mr. Anirvan Komath Majumdar",
         "Supervisor": {
-            "1": "Anasuya Ganguly",
+            
             "2": "Anasuya Ganguly",
             "3": "Judith Braganca",
             "4": "Hemant Rathore"
@@ -148,7 +147,7 @@
     {
         "Name": "Mani Bhushan",
         "Supervisor": {
-            "1": "Rudra Prasad Pradhan",
+            
             "2": "Rudra Prasad Pradhan",
             "3": "Arun Kumar Giri",
             "4": "Hemant Rathore"
@@ -175,7 +174,7 @@
     {
         "Name": "Ms. Bidisha Mondal",
         "Supervisor": {
-            "1": "Anirban Roy",
+            
             "2": "Anirban Roy",
             "3": "Snehanshu Saha",
             "4": "Santonu Sarkar"

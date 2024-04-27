@@ -1,3 +1,5 @@
+//ScholarTable.js
+
 import React from "react";
 import ScholarDataTable from "./ScholarDataTable";
 import cdrfdata from "./data/modified_corrected_combined_cdrf_details.json";

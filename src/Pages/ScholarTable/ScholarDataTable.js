@@ -18,44 +18,39 @@ const SimpleTable = ({ data }) => {
     headerCell: {
       backgroundColor: "#ffc124",
       color: "black",
+      border: "1px solid #000000",
     },
     row: {},
-    indentCell: {
-      paddingLeft: "20px",
-    },
   };
 
   const renderRows = (item, index) => {
     const backgroundColor = alternate ? "#F5F4F4" : "#ffffff";
-    const supervisors = Object.values(item.Supervisor);
-    const rows = [];
+    // Combine all supervisors into one JSX element with <br> tags between names
+    const supervisors = Object.values(item.Supervisor).map(
+      (supervisor, idx, array) => (
+        <React.Fragment key={idx}>
+          {supervisor}
+          {idx < array.length - 1 && (
+            <>
+              <br />
+              <br />
+            </>
+          )}
+        </React.Fragment>
+      )
+    );
 
-    rows.push(
+    const row = (
       <tr key={`person-${index}`} style={{ ...styles.row, backgroundColor }}>
         <td style={styles.cell}>{item.Name}</td>
-        <td style={styles.cell}>{supervisors[0] || ""}</td>
+        <td style={styles.cell}>{supervisors}</td>
         <td style={styles.cell}>{item.Project_Title}</td>
       </tr>
     );
 
-    if (supervisors.length > 1) {
-      supervisors.slice(1).forEach((supervisor, subIndex) => {
-        rows.push(
-          <tr
-            key={`supervisor-${index}-${subIndex}`}
-            style={{ ...styles.row, backgroundColor }}
-          >
-            <td style={{ ...styles.cell, ...styles.indentCell }}></td>
-            <td style={styles.cell}>{supervisor}</td>
-            <td style={styles.cell}></td>
-          </tr>
-        );
-      });
-    }
+    alternate = !alternate; // Toggle background color for the next row
 
-    if (item.Name) alternate = !alternate;
-
-    return rows;
+    return row;
   };
 
   return (
