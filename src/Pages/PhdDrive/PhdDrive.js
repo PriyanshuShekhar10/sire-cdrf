@@ -104,13 +104,13 @@ export default function PhdDrive() {
         <div className={styles.section}>
           <h2 className={styles.title}>Fellowship and Funding</h2>
           <p className={styles.details}>
-            <span className={styles.bold}>Fellowship:</span> ₹60,000 monthly
+            <span className={styles.bold}>Fellowship:</span> Rs. 60,000 monthly
             stipend plus benefits for up to five years, contingent on
             performance.
             <br />
-            <span className={styles.bold}>Seed Funding:</span> Up to ₹10 lakhs
-            to develop prototypes, with a potential for similar amounts during
-            incubation phases.
+            <span className={styles.bold}>Seed Funding:</span> Up to Rs. 10
+            lakhs to develop prototypes, with a potential for similar amounts
+            during incubation phases.
             <br />
             <span className={styles.bold}>Incubation Support:</span> Preferred
             access to Technology Business Incubators (TBIs) in exchange for
