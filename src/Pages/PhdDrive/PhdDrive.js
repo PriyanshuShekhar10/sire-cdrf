@@ -7,7 +7,9 @@ export default function PhdDrive() {
     <div>
       {/* New Header Section */}
       <div className={styles.headerSection}>
-        <h1 className={styles.headerTitle}>PhD DRIVE</h1>
+        <h1 className={styles.headerTitle} style={{ color: "white" }}>
+          PhD DRIVE
+        </h1>
         <p className={styles.headerSubtitle}>
           Deep-tech Research, Innovation, Value generation & Entrepreneurship
         </p>
@@ -20,7 +22,9 @@ export default function PhdDrive() {
           </button>
         </div>
       </div>
-
+      <div className={styles.imageContainer}>
+        <img src={Image} alt="PhD DRIVE Image" className={styles.bottomImage} />
+      </div>
       {/* Existing Content */}
       <div className={styles.container}>
         <h1 className={styles.header}>PhD DRIVE Program - BITS Pilani</h1>
@@ -120,9 +124,6 @@ export default function PhdDrive() {
       </div>
 
       {/* Image at the Bottom */}
-      <div className={styles.imageContainer}>
-        <img src={Image} alt="PhD DRIVE Image" className={styles.bottomImage} />
-      </div>
     </div>
   );
 }
