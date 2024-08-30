@@ -37,6 +37,9 @@ body {
     border-radius: 0 0 20px 20px;
     position: relative;
     overflow: hidden;
+    h1{
+        font-weight: 400;
+    }
 }
 
 .headerSection::before {
@@ -101,6 +104,12 @@ body {
     transform: scale(1.05);
 }
 
+
+.header{
+    color: #0056b3;
+    display: flex;
+    justify-content: center;
+}
 .headerButton:disabled {
     background-color: #cccccc;
     cursor: not-allowed;
