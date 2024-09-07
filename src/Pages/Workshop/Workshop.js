@@ -1,5 +1,6 @@
 import React from "react";
 import "./Workshop.css";
+import workshopImage from "../Assets/WorkshopPoster.png"; // Adjust path as necessary
 
 const Workshop = () => {
   return (
@@ -26,6 +27,10 @@ const Workshop = () => {
             University of Technology, Sweden, offering a blend of theoretical
             insights and practical demonstrations.
           </p>
+          {/* Image after the description */}
+          <div className="image-container">
+            <img src={workshopImage} alt="Workshop illustration" />
+          </div>
         </section>
 
         <section className="highlights">
