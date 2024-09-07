@@ -1,60 +1,114 @@
-/* Header.module.css */
 .header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 10px;
-    background-color: white;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    height: 20rem;
-    margin-bottom: 5rem;
+  display: flex;
+  flex-direction: column;
+  /* Adjusts for vertical layout */
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height: 30rem;
+  gap: 5rem;
+  /* Auto height to accommodate dynamic content */
+  margin-bottom: 5rem;
+}
+
+.logo {
+  height: 15rem;
+  /* Default height */
+  margin-right: 5rem;
+}
+
+.title {
+  margin-left: 10px;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #C12872;
+  text-align: center;
+  /* Centers the title text */
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  /* Align buttons in a row */
+  justify-content: center;
+  /* Centers buttons horizontally */
+  align-items: center;
+  /* Centers buttons vertically */
+  margin-top: 2rem;
+  gap: 4rem;
+  /* Adds space between buttons */
+}
+
+.button {
+  margin: 0.5rem 0;
+  /* Adds spacing between buttons */
+  padding: 0.75rem 1.5rem;
+  font-size: 1.25rem;
+  background-color: #C12872;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  /* Removes underline from anchor */
+  text-align: center;
+  /* Centers text in anchor */
+  transition: background-color 0.3s ease;
+  display: inline-block;
+  /* Ensures anchor behaves like a button */
+}
+
+.button:hover {
+  background-color: #a1215d;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    height: auto;
   }
-  
+
   .logo {
-    height: 15rem; /* Default height */
-    margin-right: 5rem;
+    height: 10rem;
+    /* Reduced height for mobile */
+    margin-right: 0;
+    margin-bottom: 1rem;
   }
-  
+
   .title {
-    margin-left: 10px;
+    margin-left: 0;
+    text-align: center;
     font-size: 3rem;
-    font-weight: bold;
-    color: #C12872;
   }
-  @media (max-width: 768px) {
-    .header {
-      flex-direction: column;
-      height: auto;
-    }
-  
-    .logo {
-      height: 10rem; /* Reduced height for mobile */
-      margin-right: 0;
-      margin-bottom: 1rem;
-    }
-  
-    .title {
-      margin-left: 0;
-      text-align: center;
-      font-size: 3rem;
-    }
+
+  .buttonContainer {
+    flex-direction: column;
+    /* Stack buttons vertically on smaller screens */
   }
-  
-  @media (max-width: 319px) {
-    .header {
-      flex-direction: column;
-      height: auto;
-    }
-  
-    .logo {
-      height: 10rem; /* Reduced height for mobile */
-      margin-right: 0;
-      margin-bottom: 1rem;
-    }
-  
-    .title {
-      margin-left: 0;
-      text-align: center;
-    }
+}
+
+@media (max-width: 319px) {
+  .header {
+    flex-direction: column;
+    height: auto;
   }
-  
+
+  .logo {
+    height: 10rem;
+    /* Reduced height for mobile */
+    margin-right: 0;
+    margin-bottom: 1rem;
+  }
+
+  .title {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .buttonContainer {
+    flex-direction: column;
+    /* Stack buttons vertically on smaller screens */
+  }
+}
