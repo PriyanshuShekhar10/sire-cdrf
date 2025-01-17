@@ -14,12 +14,12 @@ function Header() {
           PhD scholars under CDRF (2nd call)
         </button>
         <a
-          href="https://sire.bits-pilani.ac.in/programs/research/phd-drive_1"
+          href="https://discovery.bits-pilani.ac.in/PhDDrive/faculty-research-problems.aspx"
           className={styles.button}
           target="_blank"
           rel="noopener noreferrer"
         >
-          PhD Drive
+          PhD Drive (2nd Call)
         </a>
       </div>
     </header>
