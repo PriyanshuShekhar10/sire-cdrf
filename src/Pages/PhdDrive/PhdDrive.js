@@ -17,8 +17,13 @@ export default function PhdDrive() {
           <a href="#" className={styles.headerButton}>
             More Details About PhD DRIVE Scheme
           </a>
-          <button className={styles.headerButton} disabled>
-            Application (Closed)
+          <button className={styles.headerButton}>
+            <a
+              href="https://discovery.bits-pilani.ac.in/PhDDrive/faculty-research-problems.aspx"
+              className={styles.headerButton}
+            >
+              Apply Now
+            </a>
           </button>
         </div>
       </div>
