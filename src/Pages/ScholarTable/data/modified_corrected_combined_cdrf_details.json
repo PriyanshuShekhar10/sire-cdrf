@@ -1,464 +1,72 @@
 [
     {
-        "Name": "Fran Ilcic",
+        "Name": "Prof. Manik Gupta",
+        "Project_Title": "SERENE: Small languagE models for Resource-efficient Edge AI and Physiological data Exploration",
         "Supervisor": {
-            "1": "Indrakshi Raychowdhury"
-        },
-        "Project_Title": "Development of algorithms for simulating strongly correlated systems on hybrid classical quantum architectures"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Mr. Sujit Satish Chaudhari",
+        "Name": "Prof. Dhruv Kumar",
+        "Project_Title": "AI-Powered Platform for Automated Learning and Skills Assessment",
         "Supervisor": {
-
-            "1": "Swastibrata Bhattacharyya",
-            "2": "Anushaya Mohapatra"
-        },
-        "Project_Title": "Computational and Theoretical study of quantum materials"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Avadhut Jakhi",
+        "Name": "Prof. P. Nandakumar",
+        "Project_Title": "Design and development of a multimodal optical micro-endoscope for real-time imaging, diagnostics, and therapeutics",
         "Supervisor": {
-            "1": "Pravin M. Singru",
-            "2": "Ramprasad S. Joshi"
-        },
-        "Project_Title": "Feature Engineering for Condition Monitoring of Machines Using Vibration Signature Analysis using Machine Learning"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Suraj Singh",
+        "Name": "Prof. Arindam Kushagra",
+        "Project_Title": "Mechanical cardiogram & respiratory analyser ",
         "Supervisor": {
-            "1": "Vadiraj Hemadri",
-            "2": "Arnab K. Paul",
-            "3": "Afkham Mir",
-            "4": "Vadiraj Hemadri",
-            "5": "Sougata Sen"
-        },
-        "Project_Title": "SwedGuru: A privacy-aware smart wearable patch to analyze sweat and provide real-time health feedback"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Gowri Krishnan",
+        "Name": "Prof. Malabika Biswas",
+        "Project_Title": "Integrating Semiconductors with Engineered Endolysins to Combat IUD-Related Infections and Antibiotic Resistance",
         "Supervisor": {
-            "2": "Anurag Nishad",
-            "3": "Ganesh M. Bapat"
-        },
-        "Project_Title": "Design and development of a cost-effective multi-grasp myoelectric upper limb prosthesis"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Mr. Neeraj Kumar Bhaskar",
+        "Name": "Prof. Naveen Kumar Shrivastava",
+        "Project_Title": "Design and development of a fuel cell-battery smart hybrid energy system for portable defense applications.",
         "Supervisor": {
-            
-            "2": "Mukund Keshavrao Deshmukh",
-            "3": "Sampatrao Dagu Manjare",
-            "4": "Chandradew Sharma",
-            "5": "Debasis Patnaik",
-            "6": "Soumyabrata Barik",
-            "7": "Sudarshan Swain"
-        },
-        "Project_Title": "Investigations on Impacts of Variations in Local Site and Climatic Conditions on Field Performance of Grid-connected Solar Photovoltaic and Small Wind Energy Systems at BITS Pilani K K Birla Goa-Campus."
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Ashwini Padole",
+        "Name": "Prof. Soumya J",
+        "Project_Title": "Modular RISC-V Hardware Accelerator for Energy-Efficient Edge AI and IoT Applications",
         "Supervisor": {
-            
-            "2": "Vivek Rangarajan",
-            "3": "Utpal Roy",
-            "4": "Riju De"
-        },
-        "Project_Title": "Unlocking the Potential of Green Cosmetic Nanoemulsions for Targeted Acne Vulgaris Therapy: Advanced Modeling and Optimization Strategies"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Ganesh Kumar R",
+        "Name": "Prof. Satish Kumar Dubey",
+        "Project_Title": "Development Integrated Microfluidic Device for Rapid Antimicrobial Resistance (AMR) and Antimicrobial Susceptibility Tests (AST)",
         "Supervisor": {
-            
-            "2": "Narendra Nath Ghosh",
-            "3": "Anshuman Dalvi",
-            "4": "Tribeni Roy"
-        },
-        "Project_Title": "Development of high performance supercapattery device: synthesis of novel electrode materials, electrolytes, and simulation study"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Abboy Chatterjee",
+        "Name": "Prof. Tribeni Roy",
+        "Project_Title": "Smart E-textile Wearable Massager for Pain Relief and Healing (SMARTHEAL)",
         "Supervisor": {
-            
-            "2": "Mainak Banerjee",
-            "3": "Suman Kundu",
-            "4": "Ashwin Srinivasan",
-            "5": "Sumit Biswas"
-        },
-        "Project_Title": "Silicon-to-Lead: AI-Driven Design, Synthesis and Development of New Drugs to Combat Cardiovascular Diseases"
+            "1": "Supervisor Name Placeholder"
+        }
     },
     {
-        "Name": "Tanmoy Kar",
+        "Name": "Prof. Sanket Goel",
+        "Project_Title": "Integrated Microelectronic Device for Next Generation DNA Analysis",
         "Supervisor": {
-            
-            "2": "Amrita Chatterjee",
-            "3": "Satish Kumar Dubey",
-            "4": "Malabika Biswas"
-        },
-        "Project_Title": "Development of Fluorescent Probe-based Microfluidic Point-of-Care Testing kits for the early phase detection of urinary tract infection"
-    },
-    {
-        "Name": "Apoorva Maruti Pai",
-        "Supervisor": {
-            
-            "2": "Kiran Vankayala",
-            "3": "Ram Shanker Patel"
-        },
-        "Project_Title": "Exploring the role of electrons\u2019 spin in enhanced hydrogen production using chiral/magnetic electrocatalysts"
-    },
-    {
-        "Name": "Praseeda P Nair",
-        "Supervisor": {
-            
-            "2": "Ranjan Dey",
-            "3": "Suvanjan Bhattacharyya",
-            "4": "Surjya Ghosh"
-        },
-        "Project_Title": "Separation of Carcinogenic Industrial Solvents Using Solar Energy, Encapsulated PCM based Magnetic Nanoparticles and AI applications for Optimization: Towards a Sustainable Alternative"
-    },
-    {
-        "Name": "Athul Krishnan",
-        "Supervisor": {
-            
-            "2": "Halan Prakash",
-            "3": "Ethirajulu Senthamarai Kannan",
-            "4": "Vaibhav Joshi"
-        },
-        "Project_Title": "UV-visible LED light responsive semiconductor films devices for drinking water pollutant sensing and purification applications"
-    },
-    {
-        "Name": "Gayathri S Kamath",
-        "Supervisor": {
-            
-            "2": "Indrani Talukdar",
-            "3": "P. Nandakumar"
-        },
-        "Project_Title": "Noninvasive investigations on stem cell differentiation to neuron and induced morphogenesis using two-photon microscopy."
-    },
-    {
-        "Name": "Mr. Anirvan Komath Majumdar",
-        "Supervisor": {
-            
-            "2": "Anasuya Ganguly",
-            "3": "Judith Braganca",
-            "4": "Hemant Rathore"
-        },
-        "Project_Title": "Edible 3D printed Cellulose /Starch - Glimepiride sensor tablets for sensing blood glucose levels"
-    },
-    {
-        "Name": "Mani Bhushan",
-        "Supervisor": {
-            
-            "2": "Rudra Prasad Pradhan",
-            "3": "Arun Kumar Giri",
-            "4": "Hemant Rathore"
-        },
-        "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML"
-    },
-    {
-        "Name": "Ms. Sushmita Bhattacharjee",
-        "Supervisor": {
-            "1": "Mohan Kumar Bera",
-            "2": "Rudra Prasad Pradhan",
-            "3": "Arun Kumar Giri",
-            "4": "Hemant Rathore"
-        },
-        "Project_Title": "Indo-Pacific 41 Countries Seaports & Vessel Traffic Analysis: Optimizing India\u2019s Smart Ports & Green Shipping Using AI & ML"
-    },
-    {
-        "Name": "Ms.Tanvi Naik",
-        "Supervisor": {
-            "1": "Apurba Chakraborty"
-        },
-        "Project_Title": "Design , Implementation and ML-based modeling of Gallium Oxide based junction barrier schottky diodes (JBSD) for Extreme environment and high power applications"
-    },
-    {
-        "Name": "Ms. Bidisha Mondal",
-        "Supervisor": {
-            
-            "2": "Anirban Roy",
-            "3": "Snehanshu Saha",
-            "4": "Santonu Sarkar"
-        },
-        "Project_Title": "An Intelligent, Energy Optimized Aeration Assembly System: An Industry 4.0 Perspective"
-    },
-    {
-        "Name": "Rajdip Dey",
-        "Supervisor": {
-            "1": "Santanu Koley"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Anandia Mitro",
-        "Supervisor": {
-            "1": "Archana Srivastava"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Divya Mohan",
-        "Supervisor": {
-            "1": "Arijit Mukherjee"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Sathish Kumar G",
-        "Supervisor": {
-            "1": "Arnab Dutta"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Hanan H",
-        "Supervisor": {
-            "1": "Bahurudeen"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Heena Bholaram Choudhary",
-        "Supervisor": {
-            "1": "Srinivasa Prasad"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Archith Casheekar",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Vedant Shrivastava",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Pradyut Ganesh",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Tanay Reddy Reddigari",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Karanam Abhiram",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Darsh Shani",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Prachi Shah",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Shubhanga Gautam",
-        "Supervisor": {
-            "1": "Subhendu Kumar S"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Shruti Mhamane",
-        "Supervisor": {
-            "1": "Nirmal J"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Uttara Sushant Shelatkar",
-        "Supervisor": {
-            "1": "Satyapaul Singh A"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Jenisha MA ",
-        "Supervisor": {
-            "1": "Murari R R Varma"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Moharir Shreyash Rajendra",
-        "Supervisor": {
-            "1": "KVG Chandra Sekhar"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Ritama Ghosh",
-        "Supervisor": {
-            "1": "Himanshu Aggarwal"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Agrim Babbar",
-        "Supervisor": {
-            "1": "Debirupa Mitra"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Yashi Khandelwal",
-        "Supervisor": {
-            "1": "Arnab Dutta"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Mr. Sachin Shishodia",
-        "Supervisor": {
-            "1": "Radha Raman Mishra"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Sanjay Prakash Pathak",
-        "Supervisor": {
-            "1": "Navneet Gupta"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Lourder Jennifer S",
-        "Supervisor": {
-            "1": "S K Verma"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Vivek Kumar",
-        "Supervisor": {
-            "1": "Sandeep Sundriyal"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Sreeram Prakash",
-        "Supervisor": {
-            "1": "Sarbani Ghosh"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Rishikesh Sharma",
-        "Supervisor": {
-            "1": "Rallapalli Srinivas"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Karnika ",
-        "Supervisor": {
-            "1": "Mukul Joshi"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Nilesh Jaiswal",
-        "Supervisor": {
-            "1": "Satyendra Kumar Mourya"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Aakarshan Pratik Chaurishi",
-        "Supervisor": {
-            "1": "Ashish Patel"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Shreya Chandravanshi",
-        "Supervisor": {
-            "1": "Arnab Hazra"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Nitin Pandey",
-        "Supervisor": {
-            "1": "Venkatesh KP Rao"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Keerthana Balakrishnan",
-        "Supervisor": {
-            "1": "Rahul Kumar"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "VijayKumar",
-        "Supervisor": {
-            "1": "Ravi Kant Mittal"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Arvind kumar",
-        "Supervisor": {
-            "1": "Syed Mohammad Zafaruddin"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Sainithin Artham ",
-        "Supervisor": {
-            "1": "ShaShank Gupta"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Irum Jahan Indrabi",
-        "Supervisor": {
-            "1": "Nitin Chaturvedi"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Garima",
-        "Supervisor": {
-            "1": "Raj Kumar Gupta"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Ashma Haris",
-        "Supervisor": {
-            "1": "Smita Raghuvanshi"
-        },
-        "Project_Title": "To be updated"
-    },
-    {
-        "Name": "Pragati Kumbhar",
-        "Supervisor": {
-            "1": "Gautam Singhvi"
-        },
-        "Project_Title": "To be updated"
+            "1": "Supervisor Name Placeholder"
+        }
     }
 ]
