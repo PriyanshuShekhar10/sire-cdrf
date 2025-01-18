@@ -69,9 +69,9 @@ const SimpleTable = ({ data }) => {
         <table style={styles.table}>
           <thead>
             <tr>
-              <th style={styles.headerCell}>Name</th>
-              <th style={styles.headerCell}>Supervisor(s)</th>
-              <th style={styles.headerCell}>Project Title</th>
+              <th style={styles.headerCell}>Faculty Name</th>
+              <th style={styles.headerCell}>Email(s)</th>
+              <th style={styles.headerCell}>Research Project</th>
             </tr>
           </thead>
           <tbody>{data.map(renderRows)}</tbody>

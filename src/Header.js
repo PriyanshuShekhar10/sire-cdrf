@@ -4,15 +4,9 @@ import styles from "./Header.module.css"; // Import the CSS module
 function Header() {
   return (
     <header className={styles.header}>
-      {/* <img src={logo} alt="Logo" className={styles.logo} /> */}
       <h1 className={styles.title}>Research Scholars</h1>
-      <div className={styles.buttonContainer}>
-        <button className={styles.button}>
-          PhD scholars under CDRF (1st call)
-        </button>
-        <button className={styles.button}>
-          PhD scholars under CDRF (2nd call)
-        </button>
+      <div className={styles.applyNowContainer}>
+        <span className={styles.applyNowFlag}>Apply Now!</span>
         <a
           href="https://discovery.bits-pilani.ac.in/PhDDrive/faculty-research-problems.aspx"
           className={styles.button}
