@@ -109,8 +109,8 @@ export default function PhdDrive() {
         <div className={styles.section}>
           <h2 className={styles.title}>Fellowship and Funding</h2>
           <p className={styles.details}>
-            <span className={styles.bold}>Fellowship:</span> Rs. 60,000 monthly
-            stipend plus benefits for up to five years, contingent on
+            <span className={styles.bold}>Fellowship:</span> Rs. 55,000 - 60,000 monthly
+            stipend plus benefits for up to four years, contingent on
             performance.
             <br />
             <span className={styles.bold}>Seed Funding:</span> Up to Rs. 10
